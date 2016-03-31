@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://139.59.243.93:1337/parse",
+      "appId": "hellomeets-backend",
+      "masterKey": "1msj68so57ghspwjgut78",
+      "appName": "HelloMeets Backend"
+    }
+  ],
+  "users": [
+    {
+      "user":"championswimmer",
+      "pass":"hellomeets"
+    },
+    {
+      "user":"naman14",
+      "pass":"hellomeets"
+    },
+    {
+      "user":"prempal",
+      "pass":"hellomeets"
+    }
+  ]
+}
